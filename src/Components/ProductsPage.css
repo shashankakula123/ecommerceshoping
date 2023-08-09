@@ -1,0 +1,87 @@
+.products{
+      background-color: #FBFEFC;
+}
+
+.sort{
+      background-color: white;
+      font-weight: 600;
+      border:1px solid #ccc;
+      width: 100px;
+      padding:12px;
+      border-radius: 20px;
+      margin: 12px;
+      margin-left: auto;
+      margin-right: 450px;
+}
+.productimage{
+      width: 100px;
+      height: 100px;
+}
+
+.productmain{
+      width: 1000px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      border:1px solid black;
+      border-radius: 6px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 12px;
+      margin-bottom: 10px;
+      
+}
+
+.productleft{
+      width: 200px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+}
+.productright{
+      width: 400px;
+}
+
+.first{
+      padding: 5px;
+}
+.second{
+      display: flex;
+      justify-content: flex-end;
+      padding: 10px;
+}
+
+.rupees{
+      color: #767676;
+      font-size: 14px;
+      font-weight: bold;
+}
+.checked{
+      color:orange;
+      cursor: pointer;
+}
+
+.checkedtwo{
+      color:orange;
+      margin: 4px;
+      cursor: pointer;
+}
+
+.cancel{
+      background-color: white;
+      border:1px solid black;
+      color: black;
+      padding: 5px 10px;
+      margin: 5px;
+      margin-right: 10px;
+      cursor: pointer;
+}
+
+.save{
+      background-color: white;
+      border:1px solid black;
+      color: black;
+      padding: 5px 10px;
+      margin: 5px;
+      cursor: pointer;
+}

@@ -1,0 +1,30 @@
+{
+      "products":[
+            {
+                  "id":1,
+                  "productimage":"",
+                  "producttitle":"Red Seat",
+                  "price":"4000",
+                  "rating":"3",
+                  "description":"This is  a well designed creafted products that will suit many needs in terms of quality,craftsmanship and aesthetics"
+            },
+            {
+                  "id":2,
+                  "productimage":"",
+                  "producttitle":"Office Seat",
+                  "price":"4000",
+                  "rating":"3",
+                  "description":"This is  a well designed creafted products that will suit many needs in terms of quality,craftsmanship and aesthetics"
+            },
+            {
+                  "id":3,
+                  "productimage":"",
+                  "producttitle":"Red Seat",
+                  "price":"4000",
+                  "rating":"3",
+                  "description":"This is  a well designed creafted products that will suit many needs in terms of quality,craftsmanship and aesthetics"
+            }
+      ]
+
+
+}
